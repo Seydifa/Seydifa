@@ -3,6 +3,8 @@
 Applied mathematics engineer, now doing an M.Sc. in Mathematical & Computational Finance at Université de Montréal (expected Aug 2027).
 I build and test models: forecasting, classification, and lately financial risk and sentiment.
 
+Competitions: best global rank #85 on [Zindi](https://zindi.africa/users/Papito) (1 gold, 7 silver, 8 bronze medals over 48 challenges).
+
 Looking for a Montreal internship in model validation, quantitative risk or data science.
 
 ## Selected projects
@@ -19,4 +21,4 @@ Looking for a Montreal internship in model validation, quantitative risk or data
 Python · NumPy · pandas · Polars · scikit-learn · PyTorch · JAX/Keras · SQL · pytest · W&B
 
 ## Elsewhere
-[LinkedIn](https://www.linkedin.com/in/mseydifaye/) · [Kaggle](https://www.kaggle.com/seydifaye)
+[LinkedIn](https://www.linkedin.com/in/mseydifaye/) · [Kaggle](https://www.kaggle.com/seydifaye) · [Zindi](https://zindi.africa/users/Papito)
